@@ -1,0 +1,39 @@
+{
+  "name": "dependencyp",
+  "version": "1.0.0",
+  "description": "A project demonstrating D3.js usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lord85147/dependencyp.git"
+  },
+  "author": "lord85147",
+  "keywords": [
+    "d3",
+    "data-visualization",
+    "javascript"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lord85147/dependencyp.git"
+  },
+  "homepage": "https://github.com/lord85147/dependencyp#readme",
+  "dependencies": {
+    "react-todo-lord": "^0.2.2",
+    "d3": "^7.0.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "body-parser": "^1.19.0",
+    "webpack": "^5.38.1",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "d3-scale": "^4.0.0"
+  }
+}
